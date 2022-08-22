@@ -1,10 +1,12 @@
-const firebaseConfig = {
-  apiKey: "AIzaSyDIf01e6w1yyN32fwiFOvRWAPqwYuPKf4Y",
-  authDomain: "dcabs-a63bf.firebaseapp.com",
-  databaseURL: "https://dcabs-a63bf-default-rtdb.firebaseio.com",
-  projectId: "dcabs-a63bf",
-  storageBucket: "dcabs-a63bf.appspot.com",
-  messagingSenderId: "383440657426",
-  appId: "1:383440657426:web:2a4fdb1d5e3696c7b60ccb",
-  measurementId: "G-KD6CRL6NW5"
+{
+  "type": "service_account",
+  "project_id": "dcabs-a63bf",
+  "private_key_id": "b6cbc33815bfffea9f516ae8268e78d76a44a87c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDBoyKoThwII310\nDUk+MOj7bH1JEvkcMeAjQ/BePBApaLzznHty2193g/6zPqsnduq7mtQvxqqtYc4I\nXkN4KKCIkINP7Tld5Ui1kDfHFjnHqmgCM54df+qK0otRdZKnxGS+pW7f++CzJkdw\nDC3XApZhjhOFfz/vNp5+02dOkiD2oyaFw4wOlTiOqkJAdgdpuPfuQLZtAoDS65ce\n74Ax4boVsz4xm8bzETTu85M14BwdsFkamw8bNQhmi6tyM+twB4CNNrRkx8EbviyH\nDcRahCcVVrehkW1MDXcRMXoUQbmUEM5l6xC23SMLa9uKVZ6w4DL48FTLeB+PTLoD\ny2c526UjAgMBAAECggEAWKRGbEd9e5hLiMHAQrD/JoGOhNIjqW2Hjn0+XtUeDOa+\ngMKknHqiJEMPaJyKm0FLyV/iPJC0dzRrrdcBCdOHUZzeD8un1Dzu4PbJIeEhyC5Q\n+JkKi7SP+MbTMhIhdZ1pBQEUVYKnZTtjvn5EycWMc9InS5hp+ybEvYgnJYetgVl4\na+JQNOYwkqdvEcdEWELFEzlcQqiV10FJp1Bt4/WGNqOj2zv2hjcQo2D6QOg4/4sl\ni9BszfsVSonoquO6QLK7JJLIP3gbENt4+NNhQ5qzRDk2b8yDfvI7Fw6/1TwUIWq/\nVxwk5RhpXau8bNs3Bh/7uHMQMKxpsde+Ohlacsi0qQKBgQDpLx7due6uKY7iMs3b\nR1/nX/OU5GGXPPPFcazgt+hYpQPn+J5AMm/Ls1cV4F+jkNAq+3JzivfGSncA7k5i\nlCSBdGE9CYBvYXA7rR3tj0jemIBaOoVZZW6wZ4YmTbQxgZgg+2Twvw3jEn8T85Yq\nJuF0DIqvIPSej8U09t3aYozk7wKBgQDUlW6FXJdoULZ/9xNa36twmpor+C6zrOUv\nA8JReygdWoRtrCmVpk8/YgwjnlX8VAKeaI9maFkmhFyFaB5AqDx+EPEBAEMXQEb6\ntFZWVmW6Rsjx/Qhy3HoMqlpvVDX0J/M7Kxf4wbC7VX2VrItafBg+bdhitaCJ6btz\nhmQT/H5LDQKBgQDRTlR8XcraVb9FVqjk7PouqzfvK9hVcoa1ccXlp+5Ms0IAVG9n\n3F3xEDdZEZ+HKBNSoYUoJVMmj+ylz0JYxfTGpnop2X+JeoLNbiTw+a5E78o2M1VC\n2wMyIJqPgyv9TAALitweJMAIVK/wbrMZfvDbw+4wKHqqYQ547iZRQiiJzQKBgEAA\neVTXapIycq+WIJKkcoYlVbNVNiJMNHfyJsfHT21++g3W3nI6rvNDPqpemj6swFkW\n282WLvkEsqJLlYgb3pKJ4TVO8eQHKxeBwdiejGQHuan5Z1jFfk1f4HhSHyhR+s3e\njIoNLntIItY0K4Rjhh0Njy8wxZOf9hqy5GCMDS3lAoGAJhGZWztog5CHAfFfuWJZ\nmumsyr3a3RKkxv58T8LPcRCfVw5JvcdHNO0QPHEsvHCSutiA5GLV7FgmW3NYrgoC\nSHLv5DCQZ4QSl2tlcL/qHNzn7QROk8ygxUwXwWnKLdm8TPNuVZNqVEX4wCA5kLWI\necBZenugbsXdyV+QgiBkO3g=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-lkpgf@dcabs-a63bf.iam.gserviceaccount.com",
+  "client_id": "106301612408409884282",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-lkpgf%40dcabs-a63bf.iam.gserviceaccount.com"
 }
